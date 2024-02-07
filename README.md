@@ -15,6 +15,16 @@ to your repository.
 Emily Maruska: For steps 12.3 everything went smoothly, I didn’t have
 any trouble getting the rmd file to load from github.
 
+Aidan Bobholz: Following along with step 12.3, I ran into one issue in
+which I had to restart R in order for the git to register as installed
+to create new project\>git thingy. After restarting R I was able to
+successfully load in the git repository.
+
+Ryan Ledbetter: For steps 12.3 everything went smoothly until I had to
+deal with account issues. My account was setup with a personal account
+and I had to make changes to my UAC settings in Windows but everything
+is coolio.
+
 All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
