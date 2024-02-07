@@ -12,6 +12,9 @@ Include your answers in this document (Rmd file). Make sure that it
 knits properly (into the md file). Upload both the Rmd and the md file
 to your repository.
 
+Emily Maruska: For steps 12.3 everything went smoothly, I didn’t have
+any trouble getting the rmd file to load from github.
+
 All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
