@@ -21,8 +21,10 @@ Aidan Bobholz: Following along with step 12.3, I ran into one issue in
 which I had to restart R in order for the git to register as installed
 to create new project\>git thingy. After restarting R I was able to
 successfully load in the git repository. Going into step four commiting
-worked easliy, though for pushing I found out that you do not need to
-select sign.
+worked once I realized that you do not need to select sign commit. Step
+five worked once I had pulled first in order to have my file correctly
+up to date. After these steps this file had successfully made it from my
+RStudio and into the github repository.
 
 Ryan Ledbetter: For steps 12.3 everything went smoothly until I had to
 deal with account issues. My account was setup with a personal account
