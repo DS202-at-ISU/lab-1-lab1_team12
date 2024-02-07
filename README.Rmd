@@ -17,5 +17,7 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 Emily Maruska: For steps 12.3 everything went smoothly, I didn't have any trouble getting the rmd file to load from github.  
 
+Ryan Ledbetter: For steps 12.3 everything went smoothly until I had to deal with account issues. My account was setup with a personal account and I had to make changes to my UAC settings in Windows but everything is coolio.
+
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
