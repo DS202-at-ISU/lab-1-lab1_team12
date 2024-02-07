@@ -12,8 +12,12 @@ Include your answers in this document (Rmd file). Make sure that it
 knits properly (into the md file). Upload both the Rmd and the md file
 to your repository.
 
+\<\<\<\<\<\<\< HEAD
+
 Emily Maruska: For steps 12.3 everything went smoothly, I didn’t have
-any trouble getting the rmd file to load from github.
+any trouble getting the rmd file to load from github. For steps 12.4 I
+did not check the add to md file so I only updated the rmd but not the
+md, which was a problem but it was easily fixed.
 
 Aidan Bobholz: Following along with step 12.3, I ran into one issue in
 which I had to restart R in order for the git to register as installed
